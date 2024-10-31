@@ -1,0 +1,95 @@
+== 1.13.2 - 2024-08-31 =
+fix: delayed payment method doesn't trigger elementor form built-in actions.
+
+== 1.13.1 - 2024-08-13 =
+fix: compatibility with stripe latest version 2024-06-20.
+
+== 1.13.0 - 2024-08-01 = 
+feat: add paypal support.
+
+== 1.12.6 - 2024-05-22 =
+fix: format address based on country.
+
+== 1.12.2 - 2024-05-01 =
+fix: afterpay initial amount incorrect.
+
+== 1.12.1 - 2024-04-22 =
+fix: multiple forms not working.
+
+== 1.11.0 - 2024-03-30 =
+feat: add save card option.
+feat: add paypal option for payment element.
+
+== 1.10.1 - 2024-03-16 =
+fix: form metadata key is too long and change the metadata key.
+
+== 1.10.0 - 2024-02-28 =
+feat: add address field for credit card & payment element.
+feat: hide zipcode by default for credit card.
+fix: automatic will conflicts with specified payment methods.
+
+= 1.9.0 - 2024-02-14 =
+feat: add description for all payments
+feat: add product name & desc for one-time.
+fix: metadata is missing in subscription
+
+= 1.8.1 - 2024-01-11 =
+fix: add more options for decimal field.
+
+= 1.8.0 - 2024-01-07 =
+fix: normal form comflicts with payment form.
+fix: default metadata throw exception.
+fix: card form error message missing.
+feat: add decimal form field.
+
+= 1.7.0 - 2023-12-31 =
+feat: add payment element field support for multiple payment methods in form.
+
+= 1.6.4 - 2023-12-21 =
+fix: multi credit card class conflicts.
+
+= 1.6.2 - 2023-09-12 =
+fix: email not sent if php version under 7.4
+
+= 1.6.0 - 2023-09-06 =
+feat: add one-time & subscription support at same page.
+
+= 1.5.0 - 2023-08-30 =
+feat: payment form action first.
+
+= 1.4.0 - 2023-08-08 =
+feat: add email notifications.
+
+= 1.3.2 - 2023-07-30 =
+feat: add webhook settings.
+
+= 1.3.1 - 2023-07-27 =
+feat: add recurring occurrences count limit for credit card form.
+
+= 1.3.0 - 2023-07-25 =
+feat: add recurring support for credit card form.
+fix: the elementor edit loading time is slow.
+
+= 1.2.3 - 2023-07-18 =
+fix: element icon missing in elementor editor page.
+
+= 1.2.2 - 2023-07-12 =
+feat: free recurring feature.
+feat: add affiliation program.
+
+= 1.2.1 - 2023-07-08 =
+fix: security fix.
+fix: security fix.
+
+= 1.2.0 - 2023-05-26 =
+feat: add price table with checkout widget.
+
+= 1.1.0 - 2023-04-01 =
+feat: add stripe product dynamic tag.
+feat: add stripe price id for elementor form.
+
+= 1.0.1 - 2023-03-26 =
+fix: subscription fix
+
+= 1.0.0 - 2023-03-25 =
+First Release
